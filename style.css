@@ -1,0 +1,66 @@
+body{
+    background-image:url("Background(1).png.jpg");
+    background-size:cover;
+    background-repeat: no-repeat;
+    background-position: center;
+    height: 100vh;
+    margin: 0;
+    text-align:center;
+}
+
+.cute{
+    background-color:white;
+    display:inline-block;
+}
+
+.cute img{
+    display:block;
+}
+
+
+.cuty{
+    text-shadow: 2px 2px 5px pink;
+    font-family: 'Comic Sans MS', cursive;
+    color:#bd0036;
+    font-weight:Bold;
+    font-size:50px ;
+}
+
+.cutz{
+background-color:white ;
+text-shadow: 2px 2px 5px pink;
+    color:#bd0036;
+    font-weight:Bold;
+}
+   
+
+.stylus{
+    color:#ffffff;
+    background-color:#ff0049 ;
+    text-shadow: 2px 2px 5px pink;
+    border:none;
+    border-radius:100px;
+    cursor:pointer;
+    height:150px;
+    width:300px;
+    font-weight:Bold;
+    font-size:50px;
+}
+
+.style{
+    color:#ffffff;
+    background-color:#ff0049 ;
+    text-shadow: 2px 2px 5px pink;
+    border:none;
+    border-radius:100px;
+    cursor:pointer;
+    height:150px;
+    width:500px;
+    font-weight:Bold;
+    font-size:50px;
+}
+
+.item-frame{
+    background-color:#ff80c8;
+}
+
